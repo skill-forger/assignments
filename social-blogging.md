@@ -1,7 +1,15 @@
-# Social Blogging Website
+# Social Blogging
 
 ## Description
-The social blogging website allows users to read blog posts, follow bloggers, and share their opinions through comments.
+An online social blogging site allows users to read blog posts, follow bloggers, and share their opinions through comments.
+
+The blogging site needs to track the following information:
+- **Posts**: a post is written by one blogger and has a unique slug for url naming generated from post tile
+- **Bloggers**: bloggers can write and publish multiple posts and make multiple comments to share their opinions
+- **Comments**: a post can have multiple comments and one comment can be a response to another comment
+- **Tags**: tags are dynamic category of the posts. Any blogger can create a new tag as long as the name is not duplicated
+- **Favourite List**: favourite are dedicated section only for the bloggers. Bloggers can add either a blog post or
+other blogger to their favourite list and custom their blog feed based on the followed bloggers.
 
 There two 2 types of users in the website:
 1. **Reader Users** – These users can access the website without credentials. Their interactions are limited to:
@@ -16,7 +24,7 @@ bloggers have additional privileges, including:
    - Making comments on 
    - Following other bloggers
 
-## Features
+## Use cases
 ### Profile
 - Reader can sign up to become a blogger
 - Blogger can sign in to the blogging website
