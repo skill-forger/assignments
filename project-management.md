@@ -14,27 +14,27 @@ Each employee's time on a project is logged with a start and end date.
 
 ## Use cases
 ### Company Management
-- Manager/Admin can create a new company.
-- Manager/Admin can update company details.
-- Manager/Admin can remove a company.
-- Manager/Admin can list all companies.
-- Manager/Admin can view company details.
+- User can create a new company.
+- User can update company details.
+- User can remove a company.
+- User can list all companies.
+- User can view company details.
 
 ### Employee Management
-- Manager/Admin can add a new employee to a company.
-- Manager/Admin can update an existing employee’s information.
-- Manager/Admin can remove an employee from a company.
-- Manager/Admin can list all employees in a company.
-- Manager/Admin can view employee details.
+- User can add a new employee to a company.
+- User can update an existing employee’s information.
+- User can remove an employee from a company.
+- User can list all employees in a company.
+- User can view employee details.
 
 ### Project Management
-- Manager/Admin can create a new project in a company.
-- Manager/Admin can update existing project details.
-- Manager/Admin can remove a project from a company.
-- Manager/Admin can list all projects in a company.
-- Manager/Admin can view project details.
-- Manager/Admin can list all projects of an employee are assigned to.
-- Manager/Admin can assign employees to a project.
-- Manager/Admin can remove employees from a project.
-- Manager/Admin can track working hours of employees in a project.
+- User can create a new project in a company.
+- User can update existing project details.
+- User can remove a project from a company.
+- User can list all projects in a company.
+- User can view project details.
+- User can list all projects of an employee are assigned to.
+- User can assign employees to a project.
+- User can remove employees from a project.
+- User can track working hours of employees in a project.
 
